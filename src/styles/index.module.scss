@@ -1,0 +1,5 @@
+.main {
+	--bg-color: #ffffff;
+	min-height: 100vh;
+	background-color: var(--bg-color, #ffffff);
+}
